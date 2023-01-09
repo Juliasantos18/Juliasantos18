@@ -32,6 +32,10 @@
   ![Snake animation](https://github.com/Juliasantos18/Juliasantos18/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+ 
+
+
+
   
 
   
