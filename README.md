@@ -1,10 +1,10 @@
 ### OII, seja bem-vindo, prazer Julia ✨
 
 
-- 🔭 Atualmente trabalho desenvolvendo em .nnet, na linguagem c#
-- 🌱 estudando html5 e css3
+- 🔭 Atualmente trabalho desenvolvendo em Asp.net, na linguagem c#
+- 🌱 estudando automação de teste, e angular.
 - 📫 contate-me: contatojuliadonascimento@gmail.com
-- 📕 Comecei a usar a rede recentemente....
+- 📕 Comecei a ser mais ativa no git recentemente ....
 
 <div align="center">
   <a href="https://github.com/Juliasantos18">
