@@ -1,8 +1,8 @@
 ### OII, seja bem-vindo, prazer Julia ✨
 
 
-- 🔭 Atualmente trabalho desenvolvendo em Asp.net, na linguagem c#
-- 🌱 estudando automação de teste, e angular.
+- 🔭 Atualmente trabalho desenvolvendo na linguagem c#
+- 🌱 estudando Azure.
 - 📫 contate-me: contatojuliadonascimento@gmail.com
 - 📕 Comecei a ser mais ativa no git recentemente ....
 
