@@ -1,4 +1,4 @@
-### OII, seja bem-vindo, prazer Julia ✨
+### OI, seja bem-vindo, prazer Julia ✨
 
 
 - 🔭 Desenvolvedora full stack pleno
