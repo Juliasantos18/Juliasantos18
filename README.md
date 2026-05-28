@@ -1,8 +1,7 @@
 ### OII, seja bem-vindo, prazer Julia ✨
 
 
-- 🔭 Atualmente trabalho desenvolvendo na linguagem c#
-- 🌱 estudando Azure.
+- 🔭 Desenvolvedora full stack pleno
 - 📫 contate-me: contatojuliadonascimento@gmail.com
 - 📕 Comecei a ser mais ativa no git recentemente ....
 
